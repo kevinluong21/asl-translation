@@ -1,6 +1,7 @@
 # asl-translation
 
 Thank you to the wonderful researchers and developers of the WLASL dataset:
+```
  @inproceedings{li2020word,
     title={Word-level Deep Sign Language Recognition from Video: A New Large-scale Dataset and Methods Comparison},
     author={Li, Dongxu and Rodriguez, Cristian and Yu, Xin and Li, Hongdong},
@@ -8,8 +9,10 @@ Thank you to the wonderful researchers and developers of the WLASL dataset:
     pages={1459--1469},
     year={2020}
  }
+```
 
 Another big thank you to the researchers and developers of the OpenPose library:
+```
  @article{8765346,
   author = {Z. {Cao} and G. {Hidalgo Martinez} and T. {Simon} and S. {Wei} and Y. A. {Sheikh}},
   journal = {IEEE Transactions on Pattern Analysis and Machine Intelligence},
@@ -37,3 +40,4 @@ Another big thank you to the researchers and developers of the OpenPose library:
   title = {Convolutional pose machines},
   year = {2016}
 }
+```
