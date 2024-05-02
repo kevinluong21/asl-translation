@@ -33,7 +33,7 @@ def landmarks_to_dict(landmarks):
 
     return landmarks_dict
 
-src_dir = "videos"
+src_dir = "/Volumes/ESD-USB/Projects/openpose-processing/videos"
 save_dir = "pose_json"
 
 src_path = Path(src_dir)
