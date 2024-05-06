@@ -1,6 +1,8 @@
 #Source code from https://github.com/nicknochnack/Full-Body-Estimation-using-Media-Pipe-Holistic
 #The code was modified for this project.
 
+#NOTE: something is causing a context leak???
+
 import os
 import mediapipe as mp
 import cv2
